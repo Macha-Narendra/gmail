@@ -3,4 +3,5 @@
 int main ()
 {
 printf("am Narendra babu");
+printf("getting bored");
 }
